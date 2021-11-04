@@ -1,2 +1,2 @@
 # Data-Sctructure-Projects
-Labs for Data Structure class
+Projects for Data Structure class
